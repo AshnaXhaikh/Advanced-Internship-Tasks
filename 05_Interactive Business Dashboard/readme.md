@@ -3,7 +3,7 @@
 An **interactive business intelligence (BI) dashboard** built with **Streamlit** and **Plotly**, designed to analyze **sales, profit, and segment-wise performance** from the **Global Superstore Dataset**.
 
 ---
-
+### Live Dashboard Demo: [Interactive Business Dashboard in Streamlit](https://huggingface.co/spaces/ashnaxhaikh/GlobalStore_Dashboard)
 ## 🚀 Project Overview
 This dashboard helps explore business performance across different regions, categories, and customer segments.  
 It provides **key performance indicators (KPIs)**, **trend analysis**, and **customer insights** in an interactive way.
