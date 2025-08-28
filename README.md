@@ -15,6 +15,8 @@ Each project was designed to strengthen my technical expertise, analytical think
 
 ---
 
+For a structured documentation with direct links to each project repo, you may also check this: [Gamma documentation](https://applied-data-science-ana-ga7x2bh.gamma.site/)
+
 ## 📌 Project 1 – Bank Marketing Prediction
 
 **🎯 Objective**
